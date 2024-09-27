@@ -1,6 +1,6 @@
+FROM maven:latest
 LABEL authors="aliis"
 
-FROM maven:latest
 
 # set the working directory in the container
 WORKDIR /app
