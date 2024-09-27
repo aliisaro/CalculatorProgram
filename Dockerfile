@@ -15,4 +15,4 @@ COPY . /app/
 RUN mvn package
 
 # run the main class of the application
-CMD ["java", "-jar", "target/CalculatorProgram-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/calculator.jar"]
