@@ -38,7 +38,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>CalculatorProgram</mainClass> <!-- Correct main class -->
+                            <mainClass>Calculator</mainClass> <!-- Correct main class -->
                         </manifest>
                     </archive>
                 </configuration>
